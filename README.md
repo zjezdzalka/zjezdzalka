@@ -1,7 +1,7 @@
 ### Hi! I'm rytui and welcome to my Github profile!
 - **✨A bit about me:✨**
     - 📖 I’m interested in **competitive programming**, **video editing** and **planes!!!**
-    - 🏫 I’m currently learning *programming languages, such as:* *C#, C++, Python, JS, PHP, SQL*, and want to learn: *Assembly, Rust, Go, C* and *Kotlin.* I currently study at ZSK in Poznan, and actively engage socially in activities such as contests, debates. It is my goal to learn how to be a great leader and be the president of the School Council.
+    - 🏫 I’m currently learning *programming languages, such as:* *C#, C++, Python, JS, PHP, SQL*, and want to learn: *Assembly, Rust, Go, C* and *Kotlin.* I currently study at ZSK in Poznan, and actively engage socially in activities such as contests, debates. idk
     
 - 📧 **Feel free to contact me by**:
   -   via **Mail**: <a href=mailto:underscoref17?@gmail.com>underscoref17@gmail.com</a>
