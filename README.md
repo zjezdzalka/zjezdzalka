@@ -1,16 +1,16 @@
 ### hi! marek "rytui" zjezdzalka here 👋 
 
-📖 interests: {"competitive programming", "video editing", "airplanes"};  
+📖 interests: {"competitive programming", "video editing", "airplanes"}  
   
 🎓 11th grade (3. klasa) at ZSK - Poznań;  
   
-🖥️ i use: <`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`>;  
+🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`}
   
 💬 i speak: {  
               "english": "B2/C1",   
               "polish": "B2/C1",   
               "german": "A1/A2"  
-             };    
+             }  
 
 ---
 
@@ -34,5 +34,5 @@
 
 <div style="height:auto">
   <img style="height:100%" src="https://github-readme-stats.vercel.app/api?username=zjezdzalka&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjezdzalka&layout=compact&theme=dark" />
+  <img style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjezdzalka&layout=compact&hide_border=true&theme=dark" />
 </div>
