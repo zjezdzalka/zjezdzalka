@@ -1,29 +1,30 @@
-### Hi! I'm rytui and welcome to my Github profile!
-- **✨A bit about me:✨**
-    - 📖 I love **competitive programming**, **video editing** and **planes!!!**
-    - 🏫 C++, C#, Python, SQL && JS. I currently study at ZSK in Poznan.
-    
-- 📧 **Feel free to contact me by**:
-  -   via **Mail**: <a href=mailto:underscoref17?@gmail.com>underscoref17@gmail.com</a>
-  -   via **Discord**: `_F17`
-  -   via **my website:** [rytuiii.carrd.co](https://rytuiii.carrd.co)
+### hi! marek "rytui" zjezdzalka here 👋 
 
+📖 interests: {"competitive programming", "video editing", "airplanes"};  
+🎓 11th grade (3. klasa) at ZSK - Poznań;  
+🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`};  
+💬 i speak: {"english": "B2/C1", "polish": "B2/C1", "german": "A1/A2"};  
 
+---
 
-<div style="display: flex; width: 100%; justify-content: center; font-weight: bold; font-size: 1.5em;"> 
+### 📬 contact
 
-### My overall statistics
+- 📧 **email:** [underscoref17@gmail.com](mailto:underscoref17@gmail.com)  
+- 💬 **discord:** `_F17`  
+- 🌐 **website:** [rytuiii.carrd.co](https://rytuiii.carrd.co)
 
+---
+
+### ⌨️ where you can find me:
+- [**codeforces**](https://codeforces.com/profile/_F17) <~ (~1178 rating)
+- [**monkeytype**](https://monkeytype.com/profile/_F17) <~ (approx. 90-110 WPM)
+- [**leetcode**](https://leetcode.com/u/UnderscoreF17/) 
+
+---
+
+### 📈 stats
+
+<div style="height:auto">
+  <img style="height:100%" src="https://github-readme-stats.vercel.app/api?username=zjezdzalka&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjezdzalka&layout=compact&theme=dark" />
 </div>
-
-
-<div style="display: flex; flex-wrap: wrap; align-items: center">
-
-<div style="height:100%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjezdzalka&theme=dark&)
-
-</div>
-
-</div>
-
