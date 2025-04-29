@@ -1,9 +1,16 @@
 ### hi! marek "rytui" zjezdzalka here 👋 
 
 📖 interests: {"competitive programming", "video editing", "airplanes"};  
+  
 🎓 11th grade (3. klasa) at ZSK - Poznań;  
-🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`};  
-💬 i speak: {"english": "B2/C1", "polish": "B2/C1", "german": "A1/A2"};  
+  
+🖥️ i use: <`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`>;  
+  
+💬 i speak: {  
+              "english": "B2/C1",   
+              "polish": "B2/C1",   
+              "german": "A1/A2"  
+             };    
 
 ---
 
