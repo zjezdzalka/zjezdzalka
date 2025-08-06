@@ -2,7 +2,7 @@
 
 📖 interests: {"competitive programming", "video editing", "airplanes"}  
   
-🎓 11th grade (3TECH) at ZSK - Poznań;  
+🎓 12th grade (4TECH) at ZSK - Poznań;  
   
 🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`}
   
