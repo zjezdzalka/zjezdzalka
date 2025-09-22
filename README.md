@@ -7,9 +7,9 @@
 🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`}
   
 💬 i speak: {  
-              "english": "B2/C1",   
+              "english": "B2+/C1",   
               "polish": "B2/C1",   
-              "german": "A1/A2"  
+              "german": "A2"  
              }  
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ### ⌨️ where you can find me:
-- [**codeforces**](https://codeforces.com/profile/_F17) <~ (~1178 rating)
+- [**codeforces**](https://codeforces.com/profile/_F17) <~ (~1208 rating)
 - [**monkeytype**](https://monkeytype.com/profile/_F17) <~ (approx. 90-110 WPM)
 - [**leetcode**](https://leetcode.com/u/UnderscoreF17/) 
 
