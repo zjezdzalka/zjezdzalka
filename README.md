@@ -18,8 +18,8 @@
 
 - 📧 **email:** [underscoref17@gmail.com](mailto:underscoref17@gmail.com)  
 - 💬 **discord:** `_F17`  
-- 🌐 **website:** [rytuiii.carrd.co](https://rytuiii.carrd.co)
-- 🟦 **linkedin:** [linkedin_profile](https://www.linkedin.com/in/marek-zje%C5%BCd%C5%BCa%C5%82ka-24006a277/)
+- 🌐 **website:** [rytui.dev](https://rytui.dev)
+- 🟦 **linkedin:** [profile](https://www.linkedin.com/in/marek-zje%C5%BCd%C5%BCa%C5%82ka-24006a277/)
 
 ---
 
