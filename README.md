@@ -9,7 +9,7 @@
 💬 i speak: {  
               "english": "B2+/C1",   
               "polish": "B2/C1",   
-              "german": "A2"  
+              "german": "B1"  
              }  
 
 ---
@@ -17,7 +17,7 @@
 ### 📬 contact
 
 - 📧 **email:** [underscoref17@gmail.com](mailto:underscoref17@gmail.com)  
-- 💬 **discord:** `_F17`  
+- 💬 **discord:** [`_F17`  ](https://discord.com/users/441861092529143808)
 - 🌐 **website:** [rytui.dev](https://rytui.dev)
 - 🟦 **linkedin:** [profile](https://www.linkedin.com/in/marek-zje%C5%BCd%C5%BCa%C5%82ka-24006a277/)
 
