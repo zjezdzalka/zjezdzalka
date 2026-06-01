@@ -2,7 +2,7 @@
 
 📖 interests: {"competitive programming", "video editing", "airplanes"}  
   
-🎓 12th grade (4TECH) at ZSK - Poznań;  
+🎓 12th grade (4TECH) at ZSKPoznań;  
   
 🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`}
   
@@ -24,7 +24,7 @@
 ---
 
 ### ⌨️ where you can find me:
-- [**codeforces**](https://codeforces.com/profile/_F17) <~ (~1208 rating)
+- [**codeforces**](https://codeforces.com/profile/_F17) <~ (~1200 rating)
 - [**monkeytype**](https://monkeytype.com/profile/_F17) <~ (approx. 90-110 WPM)
 - [**leetcode**](https://leetcode.com/u/UnderscoreF17/) 
 
