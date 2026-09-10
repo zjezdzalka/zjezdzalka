@@ -7,8 +7,8 @@
 🖥️ i use: {`C++`, `C#`, `Python`, `SQL`, `JavaScript`, `PHP`}
   
 💬 i speak: {  
-              "english": "C1",   
-              "polish": "B2+",   
+              "english": "native",   
+              "polish": "native",   
               "german": "B1"  
              }  
 
